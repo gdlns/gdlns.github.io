@@ -1,0 +1,27 @@
+- title: Airway
+  tag: airway
+  desc: Airway category
+  subcategories:
+    - title: Local
+      tag: local
+      desc: Local guidelines and care bundles
+
+- title: Breathing
+  tag: breathing
+
+- title: Circulation
+  tag: circulation
+
+- title: Rehabilitation
+  tag: rehab
+
+- title: Microbiology
+  tag: microbiology
+  subcategories:
+    - title: North Wales
+      tag: north-wales
+      desc: North Wales (pan BCU) local guidelinese and documents
+
+    - title: Renal
+      tag: renal
+      desc: North Wales (pan BCU) local guidelinese and documents
