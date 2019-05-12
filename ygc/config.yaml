@@ -6,17 +6,6 @@ categories: /ygc/categories.yaml
 guidelines: https://docs.google.com/spreadsheets/d/14Hh92W1xii4c3awB_FFZzVHTeMrvutrudX3KViAe3io/export?format=csv
 
 links:
-  - title: Demo Sandbox
-    href: https://codesandbox.io/s/xv36w4695o
-    icon: https://icongr.am/feather/code.svg?size=16&color=808080
-
-  - title: Another link
-    href: https://www.npmjs.com/package/docsify-themeable
-
-  - title: Github
-    href: https://github.com/jhildenbiddle/docsify-themeable
-    icon: https://icongram.jgog.in/simple/github.svg?color=808080&size=16
-
-  - title: NPM
-    href: https://www.npmjs.com/package/docsify-themeable
-    icon: https://icongram.jgog.in/simple/npm.svg?colored&size=16
+  - title: Glan Clwyd ITU
+    href: https://sites.google.com/view/glanclwydhospitalintensivecare/home
+    icon: /assets/hospital-building.svg # https://icongr.am/material/hospital-building.svg?size=16&color=808080
