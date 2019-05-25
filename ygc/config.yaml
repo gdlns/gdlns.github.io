@@ -9,3 +9,7 @@ links:
   - title: Glan Clwyd ITU
     href: https://sites.google.com/view/glanclwydhospitalintensivecare/home
     icon: /assets/hospital-building.svg # https://icongr.am/material/hospital-building.svg?size=16&color=808080
+
+  - title: UpToDate
+    href: https://www.uptodate.com/contents/search
+    icon: /assets/alpha-u-box.svg # https://icongr.am/material/alpha-u-box.svg?size=16&color=808080

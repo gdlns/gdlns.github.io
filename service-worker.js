@@ -15,7 +15,7 @@ importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
 importScripts(
-  "/assets/js/precache-manifest.8bfea6618a0990340f80d0c24b8f5a61.js"
+  "/assets/js/precache-manifest.1793b54e7e1e2db387365a94da955cb3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "guidelines"});
