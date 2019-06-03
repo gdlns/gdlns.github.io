@@ -15,7 +15,7 @@ importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
 importScripts(
-  "/assets/js/precache-manifest.1793b54e7e1e2db387365a94da955cb3.js"
+  "/assets/js/precache-manifest.1d747cf6ef05dc8b4837823878567a94.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "guidelines"});
@@ -28,3 +28,7 @@ workbox.core.setCacheNameDetails({prefix: "guidelines"});
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerNavigationRoute("/index.html");
+
+workbox.routing.registerRoute(/^https:\/\/docs.google.com\//, workbox.strategies.networkFirst({ "cacheName":"guidelines-data","networkTimeoutSeconds":10, plugins: [] }), 'GET');

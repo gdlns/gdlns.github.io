@@ -1,9 +1,11 @@
 title: YGC Guidelines
 desc: YGC ITU guidelines and other useful documents and links
 
-categories: /ygc/categories.yaml
-# guidelines: /guidelines.csv
+# categories: /ygc/categories.yaml
+# guidelines: /ygc/guidelines.csv
+categories: https://docs.google.com/spreadsheets/d/14Hh92W1xii4c3awB_FFZzVHTeMrvutrudX3KViAe3io/export?gid=599111487&format=csv
 guidelines: https://docs.google.com/spreadsheets/d/14Hh92W1xii4c3awB_FFZzVHTeMrvutrudX3KViAe3io/export?format=csv
+protected: https://script.google.com/macros/s/AKfycbyYH0dxXu1onI_wBxBuRsna_bjGLmwkhmEAH03DEMCUttEbL_0C/exec?t=auth
 
 links:
   - title: Glan Clwyd ITU

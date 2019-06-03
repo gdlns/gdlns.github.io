@@ -5,18 +5,26 @@
     - title: Local
       tag: local
       desc: Local guidelines and care bundles
+      protectedFlag: true
 
-- title: Breathing
-  tag: breathing
+- title: Respiratory
+  tag: respiratory
 
-- title: Circulation
-  tag: circulation
+- title: Cardiovascular
+  tag: cardiovascular
 
-- title: Rehabilitation
-  tag: rehab
+- title: Neurology
+  tag: neurology
+
+- title: Renal
+  tag: renal
+
+- title: Gastrointestinal
+  tag: gastrointestinal
 
 - title: Microbiology
   tag: microbiology
+  desc: Microbiology category
   subcategories:
     - title: North Wales
       tag: north-wales
@@ -25,3 +33,25 @@
     - title: Renal
       tag: renal
       desc: North Wales (pan BCU) local guidelinese and documents
+
+- title: Trauma/Transfer
+  tag: trauma
+
+- title: Rehabilitation
+  tag: rehabilitation
+
+- title: Pharmacy
+  tag: pharmacy
+
+- title: Research
+  tag: research
+
+- title: Education
+  tag: education
+
+- title: Administration
+  tag: administration
+
+- title: Induction
+  tag: induction
+  protectedFlag: true
